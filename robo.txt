@@ -1,4 +1,3 @@
 hero -rajani kanth
 heroine -iswarya rai
 director-sankar
-robo -chitti
